@@ -1,0 +1,15 @@
+* {
+    color: blue;
+}
+
+#head{
+    color: blueviolet;
+}
+
+#head p {
+color: aqua;
+}
+
+.box h2{
+    color: darkorange;
+}
